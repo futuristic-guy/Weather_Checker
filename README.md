@@ -12,7 +12,7 @@
 <ul>
 <li>Volley API</li>
 <li>Animation</li>
-<li>Picasso</li>
+<li>Picasso Library</li>
 <li>Rest APIs</li>
 </ul>
 
